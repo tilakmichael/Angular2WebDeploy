@@ -1,3 +1,4 @@
+
 This project for developing a simple angular2 project and deploing the same into webserver.
 
 
@@ -41,6 +42,7 @@ deployment:
 copy the dist folder content to webserver
 
 
+Reference: http://www.geekhours.com/2016/07/25/creating-your-first-angular-2-app-detailed-step-by-step-tutorial/
 
  
 
